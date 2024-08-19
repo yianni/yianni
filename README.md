@@ -1,3 +1,3 @@
-# Hello! I'm John. 👋
+# Hi, I'm John. 👋
 
-Crafting data into impactful solutions for businesses. Let's innovate together.
+Building reliable, high-performance systems that scale.
